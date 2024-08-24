@@ -7,4 +7,34 @@ Your task is to employ Power BI to analyze these banking datasets, aiming to unr
 # DataSet : 
 There are two datasets in this project- 
 ## BankingDataset1 : -
+TransactionID: A unique identifier for each transaction. 
+AccountNumber: The account number associated with the transaction. (Foreign Key)
+TransactionType: The type of transaction (e.g., Transfer, Deposit, Withdrawal, Payment).
+Amount: The amount of money involved in the transaction.
+TransactionDate: The date when the transaction occurred.
+BranchCode: The code of the bank branch where the transaction took place.
+Currency: The currency in which the transaction was made.
+TransactionTime: The time of day when the transaction occurred (in hours).
+
+## BankingDataset2 : -
+AccountNumber: A unique identifier for each account, corresponding to 'AccountNumber' in "BankingDataset1.xlsx". (Primary Key)
+AccountHolder: The name of the account holder.
+AccountType: The type of account (e.g., Credit, Loan, Checking).
+Balance: The current balance of the account.
+InterestRate: The interest rate applicable to the account.
+CreditScore: The credit score of the account holder.
+OpeningDate: The date when the account was opened.
+LoanAmount: The amount of loan associated with the account (if applicable).
+AccountHolderDetails: Details about account holders - employment sector, years at current residence, and city of residence etc.
+
+# Data Preprocessing : -
+Imported both datasets into Power BI and performed an initial review to identify data quality issues or inconsistencies. Merge the datasets on the AccountNumber column, ensuring accurate integration and completeness of data. Address any missing values, duplicate entries, and irrelevant data points to maintain data integrity. Converted  columns to appropriate formats and made calculation using new measure function. Utilized diffrent DAX quries to get new data for graphs and tables.
+
+
+
+
+
+
+
+
 
