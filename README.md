@@ -52,6 +52,11 @@ Imported both datasets into Power BI and performed an initial review to identify
 
 - Used variour charts and graphs including pie charts ,bar charts ,scatter plots and line charts,after utilizing this all graphs I noticed the diffrent aspect of data.
 
+# Dashboards :
+![Dashboard2_Image](https://github.com/user-attachments/assets/2151e3b9-870c-44f0-bba6-343c95731b34)
+
+
+
 
 
 
