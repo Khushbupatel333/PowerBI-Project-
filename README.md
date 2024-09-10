@@ -1,4 +1,5 @@
 # HDFC Bank Data Analysis: PowerBI Dashboard
+![HDFC](https://github.com/user-attachments/assets/68bbdcbd-b591-495d-88eb-ba6e7a49cd45)
 
 
 # Objective :
