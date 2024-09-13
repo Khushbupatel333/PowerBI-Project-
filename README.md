@@ -41,20 +41,22 @@ OpeningDate: The date when the account was opened.
 
 LoanAmount: The amount of loan associated with the account (if applicable).
 
-AccountHolderDetails: Details about account holders - employment sector, years at current residence, and city of residence etc.
+AccountHolderDetails: Details about account holders - employment sector, years at current residence, and city of residence.
 
-# Data Preprocessing : -
-Imported both datasets into Power BI and performed an initial review to identify data quality issues or inconsistencies. Merge the datasets on the AccountNumber column, ensuring accurate integration and completeness of data. Address any missing values, duplicate entries, and irrelevant data points to maintain data integrity. Converted  columns to appropriate formats and made calculation using new measure function. Utilized diffrent DAX quries to get new data for graphs and tables.
+# Data Preprocessing: -
+Imported both datasets into Power BI and performed an initial review to identify data quality issues or inconsistencies. Merge the datasets on the AccountNumber column, ensuring accurate integration and completeness of data. Address any missing values, duplicate entries, and irrelevant data points to maintain data integrity. Converted columns to appropriate formats and made calculations using a new measure function. Utilized different DAX queries to get new data for graphs and tables.
 
-# Outcome :- 
-- Developed dynamic interactive dashboard to illustrate transactional trdes,customer profile and historic view of banking ecosystem.
+# Outcome:- 
+- Developed a dynamic interactive dashboard to illustrate transactional trends, customer profiles, and a historical view of the banking ecosystem.
 
-- Added diffrent slicers to show the data in proper manner.I used slicer on AccountType and BranchCode columns to show the data based on diffrent AccountType and BranchCode.
+- Added different slicers to show the data in a proper manner. I used slicer on AccountType and BranchCode columns to show the data based on different AccountType and BranchCode.
 
-- Used variour charts and graphs including pie charts ,bar charts ,scatter plots and line charts,after utilizing this all graphs I noticed the diffrent aspect of data.
+- Used various charts and graphs including pie charts, bar charts, scatter plots, and line charts, after utilizing all graphs I noticed the different aspects of data.
 
 # Dashboards :
 ![Dashboard2_Image](https://github.com/user-attachments/assets/2151e3b9-870c-44f0-bba6-343c95731b34)
+
+
 
 
 
